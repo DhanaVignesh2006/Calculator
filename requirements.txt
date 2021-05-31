@@ -1,0 +1,8 @@
+1. PyQt5
+
+Modules Used:
+  1. PyQt5 (third-party module)
+  2. decimal (default module)
+  3. sys (default module)
+  4. math (default module)
+  5. locale (default module)
