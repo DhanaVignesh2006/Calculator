@@ -1,0 +1,340 @@
+#main_window{
+    background-color:black;
+}
+
+#menuBar{
+    color:white;
+    background-color:transparent;
+    font-family:Arial;
+    font-size:12px;
+    color:white;
+}
+
+#file{
+    color:white;
+    background-color:black;
+}
+
+#side_display{
+    color:#ffdb58;
+    border-radius:10px;
+}
+
+#main_display{
+    color:#30d5c8;
+    border-radius: 10px;
+}
+
+#help{
+    color:white;
+    background-color:black;
+}
+
+#all_clear{
+    border-radius:25px;
+    background-color:#9a9e9f;
+    color:#ffffff;
+}
+
+#all_clear:hover{
+    border:3px solid black;
+}
+
+#clear{
+    border-radius:25px;
+    background-color:#9a9e9f;
+    color:#ffffff;
+}
+
+#clear:hover{
+    border:3px solid black;
+}
+
+#backspace{
+    border-radius:25px;
+    background-color:#9a9e9f;
+    color:#ffffff;
+}
+
+#backspace:hover{
+    border:3px solid black;
+}
+
+#plus_minus{
+    border-radius:25px;
+    background-color:#9a9e9f;
+    color:#ffffff;
+}
+
+#plus_minus:hover{
+    border:3px solid black;
+}
+
+#plus{
+    border-radius:25px;
+    background-color:#f89400;
+    color:white;
+}
+
+#plus:hover{
+    border:3px solid black;
+}
+
+#multiply{
+    border-radius:25px;
+    background-color:#f89400;
+    color:white
+}
+
+#multiply:hover{
+    border: 3px solid black;
+}
+
+#minus{
+    border-radius:25px;
+    background-color:#f89400;
+    color:white
+}
+
+#minus:hover{
+    border:3px solid black;
+}
+
+#nine{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff
+}
+
+#nine:hover{
+    border:3px solid black;
+}
+
+#eight{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff
+}
+
+#eight:hover{
+    border:3px solid black;
+}
+
+#seven{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff
+}
+
+#seven:hover{
+    border:3px solid black;
+}
+
+#six{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+#six:hover{
+    border:3px solid black;
+}
+
+#five{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+#five:hover{
+    border:3px solid black;
+}
+
+#four{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+#four:hover{
+    border:3px solid black;
+}
+
+#three{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+#three:hover{
+    border:3px solid black;
+}
+
+#two{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+#two:hover{
+    border:3px solid black;
+}
+
+#one{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+#one:hover{
+    border:3px solid black;
+}
+
+#zero{
+    border-radius:25px;
+    background-color:#9a9e9f;
+    color:#ffffff;
+}
+
+#zero:hover{
+    border:3px solid black;
+}
+
+#dot{
+    border-radius:25px;
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+#dot:hover{
+    border:3px solid black;
+}
+
+#lcm{
+    border-radius:25px;
+    background-color:#9a9e9f;
+    color:#ffffff;
+}
+
+#lcm:hover{
+    border:3px solid black;
+}
+
+#divide{
+    border-radius:25px;
+    background-color:#f89400;
+    color:white;
+}
+
+#divide:hover{
+    border:3px solid black;
+}
+
+#violet{
+    border-radius:25px;
+    background-color:#210043;
+    color:white;
+}
+
+#violet:hover{
+    border:3px solid black;    
+}
+
+#equals{
+    border-radius:25px;
+    background: QLinearGradient( x1: 0, y1: 0,x2: 1, y2: 0, stop: 0 rgb(222, 203, 164), stop: 1 rgb(62, 81, 81));
+    color:black;
+}
+
+#equals:hover{
+    border:3px solid black;
+}
+
+#ok{
+    border-radius: 10px;
+    background-color: #ff6923;
+}
+
+#cancel{
+    border-radius: 10px;
+    background-color: #d46fff;
+}
+
+#dialog{
+    background-color: #3c3f41;
+    color:white;
+}
+
+#help_dialog{
+    background-color: rgb(34, 34, 34);
+}
+
+#about_dialog{
+    background:QLineargradient(x1:0, y1:0, x2:1, y2:1, stop:0 rgb(198, 255, 221), stop: 1 rgb(251, 215, 134), stop: 2 rgb(247, 121, 125));
+}
+
+#about_label{
+    color:#EE82EE;
+    background-color:transparent;
+    font-weight:bold;
+}
+
+#about_label_1{
+    background-color: transparent;
+    color:black;
+}
+
+#about_label_2{
+    background-color: transparent;
+    color: black;
+}
+
+#about_label_3{
+    background-color: transparent;
+    color: black;
+}
+
+#about_btn_ok{
+    background-color: violet;
+    color:black;
+    border-radius: 10px;
+}
+
+#show_lab{
+    color: white;
+}
+
+#x_label_1{
+    color:black;
+}
+
+#lcm_snd_label{
+    color: #888888;
+}
+
+#lcm_ok_btn{
+    border-radius: 10px;
+    background-color: #ff6923;
+}
+
+#lcm_cancel{
+    border-radius: 10px;
+    background-color: #d46fff;
+}
+
+#lcm_dialog{
+    background-color: #3c3f41;
+    color:white;
+}
+
+#lcm_first_edit{
+    background-color: transparent;
+    color:white;
+    border-radius: 4px;
+    border:2px solid grey
+}
+#editor{
+    background-color: transparent;
+    border:0 solid transparent;
+    transition: 1s;
+}
